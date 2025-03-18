@@ -6,7 +6,7 @@
 
 
 ## Overview
-A Go package for validating Brazilian CPF and CNPJ numbers with concurrent processing and comprehensive error handling.
+A Go package for validating Brazilian CPF and CNPJ numbers.
 
 ## Features
 - **CPF Validation**: Validates CPF numbers using concurrent processing for better performance
