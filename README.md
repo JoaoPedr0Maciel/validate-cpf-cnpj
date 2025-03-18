@@ -9,7 +9,7 @@
 A Go package for validating Brazilian CPF and CNPJ numbers.
 
 ## Features
-- **CPF Validation**: Validates CPF numbers using concurrent processing for better performance
+- **CPF Validation**: Validates CPF numbers
 - **CNPJ Validation**: Validates CNPJ numbers with proper algorithm checks
 - **Multiple Formats**: Accepts both formatted (000.000.000-00 or 00.000.000/0000-00) and unformatted (00000000000 or 00000000000000) numbers
 - **Error Handling**: Provides detailed error messages for invalid inputs
